@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Sahil Workout App</title>
+<style>
+body{
+font-family:Arial,sans-serif;
+background:#111;
+color:white;
+text-align:center;
+padding:30px;
+}
+a{
+display:block;
+margin:15px;
+padding:15px;
+background:#cc0000;
+color:white;
+text-decoration:none;
+border-radius:10px;
+}
+</style>
+</head>
+<body>
+
+<h1>💪 Sahil Workout App</h1>
+
+<a href="sahil_chest_workout.html">Chest Workout</a>
+
+<a href="sahil_back_workout.html">Back Workout</a>
+
+<a href="sahil_shoulder_workout.html">Shoulder Workout</a>
+
+<a href="sahil_arm_workout.html">Arm Workout</a>
+
+<a href="sahil_legs_hiit_workout.html">Legs & HIIT Workout</a>
+
+</body>
+</html>
